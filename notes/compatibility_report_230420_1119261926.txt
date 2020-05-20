@@ -1,0 +1,14 @@
+Convirtiendo script GML: ${project_dir}\scripts\draw_sprite_outlined\draw_sprite_outlined.gml
+Descripción convertida /// @description draw_sprite_outlined(sprite, subimg, x, y, xscale, yscale, ang, colour, outline_colour)/// @param sprite
+/// @param  subimg
+/// @param  x
+/// @param  y
+/// @param  xscale
+/// @param  yscale
+/// @param  ang
+/// @param  colour
+/// @param  outline_colour
+
+Añadido el script de compatibilidad "d3d/d3d_set_fog.gml"
+Añadido el script de compatibilidad "d3d/__init_d3d.gml"
+Añadido el script de compatibilidad "__init_global.gml"

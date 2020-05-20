@@ -1,0 +1,9 @@
+La colisión de recurso con el nombre "draw_text_shadow" ya existe, se ha renombrado como "draw_text_shadow_scripts"
+Convirtiendo script GML: ${project_dir}\scripts\draw_text_shadow_scripts\draw_text_shadow_scripts.gml
+Descripción convertida /// @description draw_text_shadow(x, y, string, shadow length, shadow direction, shadow color, shadow alpha);/// @param x
+/// @param  y
+/// @param  string
+/// @param  shadow length
+/// @param  shadow direction
+/// @param  shadow color
+/// @param  shadow alpha
